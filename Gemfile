@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-require 'jaro_winkler'
+gem 'jaro_winkler'
